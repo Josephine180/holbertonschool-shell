@@ -1,0 +1,1 @@
+on va utiliser les redirections et les filtres 
