@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x hello ./5-execute
+chmod 644 hello ./5-execute
