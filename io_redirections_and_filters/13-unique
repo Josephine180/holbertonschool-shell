@@ -1,2 +1,2 @@
 #!/bin/bash
-sort "$temp_file" | uniq -u | sort
+sort | uniq -u | sort
